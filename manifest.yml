@@ -1,0 +1,13 @@
+branch: master
+description: Description of the package
+dockerhub: user2684/egeoffrey-service-devtest
+github: user2684/egeoffrey-service-devtest
+icon: box-open
+manifest_schema: 2
+modules:
+- service/devtest:
+    description: Description of the module
+package: egeoffrey-service-devtest
+revision: 1
+tags: service
+version: 1.0
